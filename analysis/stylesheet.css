@@ -1,0 +1,35 @@
+.page {
+	background-color:#008c31;
+	}
+.menu_bar {
+	background-color:green;
+	display:inline-flex;
+	width:100%;
+	vertical-align:top;
+	}
+.menu_bar a {
+	float:left;
+	background-color:green;
+	text-decoration:none;
+	text-align:center;
+	padding:20px;
+	color:White;
+	font-size:18px;
+	width:25%;
+	cursor:pointer;
+	border-style:solid;
+	border-width:1px;
+	border-color:white;
+	}
+.menu_bar a:hover {
+	background-color:darkgreen;
+	color:black;
+	}
+.desc {
+	color:white;
+	text-align:center;
+	}
+.team {
+	text-align:center;
+	color:white;
+	}
